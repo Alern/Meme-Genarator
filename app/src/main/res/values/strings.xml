@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Genysis Inc Interactive</string>
+    <string name="tapButton">Tap This Button</string>
+    <string name="gestListener">Listening to a gesture</string>
+    <string name="bMeme">CREATE MEME</string>
+    <string name="topText">Top joke</string>
+    <string name="bottomText">bottomJoke</string>
+</resources>
